@@ -1,4 +1,4 @@
-  ## Oiii eu sou a PriscilaYoneFujii, estudante de ciecia da comutação.
+### olá,  sou  Priscila Yone Fujii, estudante de ciência da compuda.
 <div align="center">
   <a href="https://github.com/PriscilaYoneFujii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PriscilaYoneFujii&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
@@ -19,8 +19,4 @@
  
 <div>  
   <a href = "hakutouwashi91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
-  
- 
 </div>
